@@ -1,0 +1,15 @@
+{
+  "name": "damirm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://damirmedakovic.github.io/damirm",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
